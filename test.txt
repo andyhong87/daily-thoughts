@@ -1,4 +1,2 @@
-echo test.txt means that you are making a text file named test.echo test.txt means that you are making a text file named test.
-echo test.txt means that you are making a text file named test.
-echo test.txt means that you are making a text file named test.
-echo test.txt means that you are making a text file named test.
+echo test.txt means that you are making a text file named test.echo test.
+.gitignore file and the contents of it makes not to be seen by others. It won't go up to repository.
