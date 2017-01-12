@@ -1,0 +1,2 @@
+echo test.txt means that you are making a text file named test
+I added a line here again
